@@ -1,2 +1,3 @@
-# apple-usb-display-service-utility
-Reverse engineering of the apple display service utilty
+# open-USB-display-service-utility
+
+Reverse engineering of the apple USB display service utilty
